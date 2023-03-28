@@ -1,0 +1,52 @@
+html{
+    text-align: center;
+    height: 100vh;
+   background: linear-gradient(rgb(164, 164, 250),20%,rgb(245,200,207));
+}
+.shadow{
+    margin: -10px;
+    text-shadow: 5px 5px 5px aqua;
+    font-weight: 800;
+font-size: xx-large;  
+}
+.btn{
+    border-radius: 30px;
+    background-color: rgb(113, 108, 146);
+    font-size: 8px; 
+    height: 25px; 
+    width: 170px;
+    margin: 20px;
+      
+}
+.btn:hover{
+    background: aqua;
+    cursor: pointer;
+    border: 1px,black;
+ }
+
+.fun{
+    background-color: aqua;
+   height: 125px;
+   width: 250px;
+   border-radius: 10px;
+ border: 2px solid black;
+ font-size: 12px; 
+
+}
+.classcom{
+    background-color: fuchsia;
+    height: 125px;
+   width: 250px;
+    border-radius: 10px;
+    border: 2px solid black;
+    font-size: 12px; 
+}
+.button{
+    display: flex;
+    justify-content: space-around;
+}
+.clasfnc{
+    margin: 50px;
+    display: flex;
+    justify-content: space-around;
+}
